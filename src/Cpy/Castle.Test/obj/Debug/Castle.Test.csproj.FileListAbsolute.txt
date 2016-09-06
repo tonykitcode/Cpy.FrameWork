@@ -1,0 +1,9 @@
+E:\housh\Git\Cpy.FrameWork\src\Cpy\Castle.Test\bin\Debug\Castle.Test.dll
+E:\housh\Git\Cpy.FrameWork\src\Cpy\Castle.Test\bin\Debug\Castle.Test.pdb
+E:\housh\Git\Cpy.FrameWork\src\Cpy\Castle.Test\bin\Debug\Castle.Core.dll
+E:\housh\Git\Cpy.FrameWork\src\Cpy\Castle.Test\bin\Debug\Castle.Windsor.dll
+E:\housh\Git\Cpy.FrameWork\src\Cpy\Castle.Test\bin\Debug\Castle.Core.xml
+E:\housh\Git\Cpy.FrameWork\src\Cpy\Castle.Test\bin\Debug\Castle.Windsor.xml
+E:\housh\Git\Cpy.FrameWork\src\Cpy\Castle.Test\obj\Debug\Castle.Test.csprojResolveAssemblyReference.cache
+E:\housh\Git\Cpy.FrameWork\src\Cpy\Castle.Test\obj\Debug\Castle.Test.dll
+E:\housh\Git\Cpy.FrameWork\src\Cpy\Castle.Test\obj\Debug\Castle.Test.pdb
